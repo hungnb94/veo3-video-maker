@@ -3,111 +3,174 @@
 ## Basic Info
 - **Topic**: Dollar Cost Averaging vs Market Timing
 - **Duration**: 40s (5 segments × 8s)
-- **Hook Archetype**: Contrarian 🙅‍♂️ + Teacher 👨‍🏫
-- **Characters**: Ngố 🤡 (FOMO trader) vs Pro 😎 (DCA investor)
-- **Format**: 9:16 vertical (YouTube Shorts/TikTok/Reels)
+- **Format**: 9:16 vertical (1080×1920 or similar)
+- **Characters**: Ngố 🤡 (white mop wig) + Pro 😎 (black turtleneck)
 
 ---
 
-## Character Reference
+## Character Prompts (Generate these first)
 
-| Character | Visual | Behavior |
-|-----------|--------|----------|
-| **Ngố 🤡** | White messy mop-like wig, confused expression | Emotional, FOMO-driven, stressed |
-| **Pro 😎** | Black turtleneck, neat dark hair, confident | Calm, logical, relaxed |
+### Pro 😎 Reference
+```
+A confident man in his 30s wearing a black turtleneck sweater. 
+Neat dark brown hair, light stubble, warm friendly smile. 
+Professional but approachable look. 
+Portrait shot, dark studio background.
+Aspect ratio 9:16, vertical format.
+```
 
----
-
-## Segment 1: HOOK (0-8s)
-**Purpose**: Stop the scroll with shocking contrast
-
-| Field | Content |
-|-------|---------|
-| **Start Image** | Split screen: Ngố stressed looking at red chart, Pro relaxed sipping coffee |
-| **End Image** | Ngố pulling hair, Pro smiling and shrugging |
-| **Action** | Camera alternates between both characters' contrasting reactions |
-| **Voiceover** | "The market crashed 30%. He's panicking. I'm buying more. Here's why." |
-| **Emotion** | Chaos vs Calm |
-| **Camera** | Split screen or quick cuts |
-
-**Veo3 Prompt:**
-> Split screen: On left, a stressed man with wild white mop-like wig pulling his hair while looking at crashing red stock chart. On right, a calm man in black turtleneck sipping coffee and smiling. 9:16 vertical format, dramatic lighting.
+### Ngố 🤡 Reference  
+```
+Same man but wearing a ridiculous messy white mop-like wig.
+White stringy hair sticking out wildly in all directions like a floor mop.
+Confused silly expression, mouth slightly open in surprise.
+Still wearing black turtleneck.
+Comedy character, goofy funny look.
+Portrait shot, dark studio background.
+Aspect ratio 9:16, vertical format.
+```
 
 ---
 
-## Segment 2: PROBLEM (8-16s)
-**Purpose**: Show the pain of market timing
+## Segment Prompts
 
-| Field | Content |
-|-------|---------|
-| **Start Image** | Ngố staring at phone, chart showing volatile ups and downs |
-| **End Image** | Ngố crying/frustrated, phone screen showing "SOLD" at the bottom |
-| **Action** | Ngố buys at peak, panics and sells at bottom |
-| **Voiceover** | "90% of traders try to time the market. They buy high, panic, sell low. Repeat." |
-| **Emotion** | Frustration, regret |
-| **Camera** | Focus on Ngố's emotional journey |
+### Segment 1: HOOK (0-8s)
+**Voiceover:** *"The market crashed 30%. He's panicking. I'm buying more. Here's why."*
 
-**Veo3 Prompt:**
-> A man with wild white mop-like wig looking frustrated at his phone showing a volatile stock chart. He slaps his forehead in regret. Dramatic lighting, 9:16 vertical format.
+**Image Prompt (Start):**
+```
+Split screen composition, vertical 9:16 format.
+TOP HALF: A panicked man with wild white mop wig screaming, 
+pulling his hair with both hands. Behind him a large screen shows 
+crashing red stock chart with big red arrows pointing down.
+Red dramatic lighting, chaos energy.
 
----
+BOTTOM HALF: A calm man in black turtleneck peacefully sipping 
+coffee from a white cup, slight smile on face, eyes closed enjoying.
+Warm golden lighting, cozy atmosphere.
 
-## Segment 3: SOLUTION (16-24s)
-**Purpose**: Introduce DCA as the alternative
+Strong visual contrast between panic and calm.
+Cinematic quality, professional lighting.
+```
 
-| Field | Content |
-|-------|---------|
-| **Start Image** | Pro sitting relaxed with calendar showing regular checkmarks behind him |
-| **End Image** | Pro casually pressing "Buy" on phone, not even looking at chart |
-| **Action** | Pro demonstrates automated, stress-free investing |
-| **Voiceover** | "DCA. Buy the same amount every week. Don't guess. Don't stress. Just stack." |
-| **Emotion** | Calm, confident |
-| **Camera** | Medium shot, warm lighting |
-
-**Veo3 Prompt:**
-> A calm confident man in black turtleneck sitting relaxed in a chair. Behind him is a wall calendar with regular checkmarks. He casually taps his phone screen without stress. Warm cozy lighting, 9:16 vertical format.
+**Image Prompt (End):**
+```
+Same split screen, vertical 9:16.
+TOP: Man with white mop wig now crying, tears streaming, 
+holding empty wallet, chart shows -50%.
+BOTTOM: Man in turtleneck now smiling directly at camera, 
+giving subtle knowing look, holding phone showing "BUY" button.
+```
 
 ---
 
-## Segment 4: PROOF (24-32s)
-**Purpose**: Show data comparison
+### Segment 2: PROBLEM (8-16s)
+**Voiceover:** *"90% of traders try to time the market. They buy high, panic, sell low. Repeat."*
 
-| Field | Content |
-|-------|---------|
-| **Start Image** | Both characters looking at same chart - one line steady up, one volatile |
-| **End Image** | Pro points at winning line, Ngố jaw drops |
-| **Action** | Pro shows Ngố the proof, Ngố is shocked |
-| **Voiceover** | "10 years of DCA into Bitcoin: plus 300%. Market timers? Most lost money." |
-| **Emotion** | Educational, surprising |
-| **Camera** | Two-shot, focus on reactions |
+**Image Prompt (Start):**
+```
+Vertical 9:16 format, full body shot.
+Man with wild white mop wig standing in dark room.
+He stares intensely at phone screen glowing in the dark.
+Phone shows volatile green/red candlestick chart.
+His face lit by phone glow, tense expression, sweating.
+Dark moody atmosphere, blue/purple accent lighting.
+```
 
-**Veo3 Prompt:**
-> Two men looking at a large screen showing comparison chart. One man in black turtleneck (confident) points at steady upward blue line. Another man with wild white mop wig (shocked, jaw dropped) sees the volatile red line below. 9:16 vertical format.
+**Image Prompt (End):**
+```
+Vertical 9:16 format, full body shot.
+Same man with white mop wig now on his knees.
+One hand slapping forehead in regret.
+Other hand holding phone showing "SOLD -40%" in red.
+Dramatic spotlight from above, defeated posture.
+Dark background, dramatic shadows.
+```
 
 ---
 
-## Segment 5: CTA (32-40s)
-**Purpose**: Call to action
+### Segment 3: SOLUTION (16-24s)
+**Voiceover:** *"DCA. Buy the same amount every week. Don't guess. Don't stress. Just stack."*
 
-| Field | Content |
-|-------|---------|
-| **Start Image** | Pro and Ngố side by side, Pro gives thumbs up, Ngố scratches head |
-| **End Image** | Ngố nods and also gives thumbs up (learning moment) |
-| **Action** | Transformation - Ngố learns from Pro |
-| **Voiceover** | "Start today. Even with $10. Time in the market beats timing the market." |
-| **Emotion** | Encouraging, hopeful |
-| **Camera** | Medium shot, both characters |
+**Image Prompt (Start):**
+```
+Vertical 9:16 format.
+Man in black turtleneck sitting relaxed in modern Eames lounge chair.
+Legs crossed casually, holding smartphone loosely.
+Behind him: large wall calendar filling upper portion of frame.
+Calendar shows regular checkmarks on every Monday of the month.
+Warm cozy lighting, houseplants visible on sides.
+Relaxed confident expression, slight smile.
+```
 
-**Veo3 Prompt:**
-> Two men side by side. One in black turtleneck giving confident thumbs up. The other with wild white mop wig starts confused but then nods and also gives thumbs up, learning. Warm lighting, 9:16 vertical format.
+**Image Prompt (End):**
+```
+Vertical 9:16 format.
+Same setting, man casually tapping "Buy $100" button on phone.
+He's not even looking at the phone, looking at camera instead.
+Confident relaxed expression, small knowing smile.
+Calendar behind shows consistent pattern of checkmarks.
+Text overlay space at bottom for caption.
+```
+
+---
+
+### Segment 4: PROOF (24-32s)
+**Voiceover:** *"10 years of DCA into Bitcoin: plus 300%. Market timers? Most lost money."*
+
+**Image Prompt (Start):**
+```
+Vertical 9:16 format, two-shot.
+Two men standing side by side looking at large vertical monitor.
+LEFT: Man in black turtleneck, confident posture, pointing at screen.
+RIGHT: Man with white mop wig, curious expression, arms crossed.
+Screen shows comparison chart with two lines:
+- Blue steady upward line labeled "DCA"  
+- Red volatile jagged line labeled "TIMING" below the blue
+Modern office setting, glass windows, city view.
+```
+
+**Image Prompt (End):**
+```
+Vertical 9:16 format, two-shot.
+Same two men, same screen.
+LEFT: Man in turtleneck smiling confidently, arms crossed.
+RIGHT: Man with mop wig jaw dropped in shock, hands on cheeks.
+Screen now shows final numbers: "DCA: +300%" vs "TIMING: -15%"
+Dramatic reaction shot, comedic contrast.
+```
+
+---
+
+### Segment 5: CTA (32-40s)
+**Voiceover:** *"Start today. Even with $10. Time in the market beats timing the market."*
+
+**Image Prompt (Start):**
+```
+Vertical 9:16 format, two-shot.
+Two men standing facing camera.
+LEFT: Man in turtleneck giving confident thumbs up, big smile.
+RIGHT: Man with mop wig scratching head confused.
+Clean simple background, warm encouraging lighting.
+Space at top for text overlay.
+```
+
+**Image Prompt (End):**
+```
+Vertical 9:16 format, two-shot.
+Same two men, both now smiling big.
+Both giving enthusiastic double thumbs up together.
+Man with mop wig now has "aha!" enlightened expression.
+Warm golden celebratory lighting, confetti optional.
+Text overlay space for CTA: "Start DCA Today!"
+```
 
 ---
 
 ## Checklist
 - [x] English script for global market
-- [x] 9:16 vertical format specified
-- [x] Both characters (Ngố + Pro) appear in each segment
-- [x] Clear contrast between emotional trading vs systematic DCA
-- [x] Hook creates curiosity in 2 seconds
-- [x] Data point included (10 years, +300%)
-- [x] CTA is actionable ("Start today, even with $10")
+- [x] 9:16 vertical format specified in all prompts
+- [x] Both characters (Ngố + Pro) with detailed descriptions
+- [x] Start + End images for each segment (for Veo3 video generation)
+- [x] Voiceover script included
+- [x] Clear emotional arc: Panic → Failure → Solution → Proof → Success
